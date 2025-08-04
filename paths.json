@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/varawat-varawat-2025-8-4-16-52-34/language-masters/en:/",
+    "/content/varawat-varawat-2025-8-4-16-52-34/language-masters/en/:/",
+    "/content/varawat-varawat-2025-8-4-16-52-34/language-masters/en/:/en/",
+    "/content/varawat-varawat-2025-8-4-16-52-34/configuration:/.helix/config.json",
+    "/content/varawat-varawat-2025-8-4-16-52-34/metadata:/metadata.json",
+    "/content/varawat-varawat-2025-8-4-16-52-34/redirects:/redirects.json",
+    "/content/varawat-varawat-2025-8-4-16-52-34/placeholders:/placeholders.json",
+    "/content/varawat-varawat-2025-8-4-16-52-34.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/varawat-varawat-2025-8-4-16-52-34/",
+    "/content/dam/varawat-varawat-2025-8-4-16-52-34/"
   ]
 }
